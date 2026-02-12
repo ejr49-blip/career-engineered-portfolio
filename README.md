@@ -2,7 +2,7 @@
 # Career-Engineered Portfolio – Systems & Automation
 
 ## Live Site
-🔗https://github.com/ejr49-blip/career-engineered-portfolio/
+🔗[https://github.com/ejr49-blip/career-engineered-portfolio/](https://ejr49-blip.github.io/career-engineered-portfolio/)
 
 ---
 
