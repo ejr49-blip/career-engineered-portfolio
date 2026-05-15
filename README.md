@@ -1,48 +1,21 @@
-# career-engineered-portfolio
-# Career-Engineered Portfolio – Systems & Automation
+# Career-Engineered Portfolio
 
-## Live Site
-🔗[https://github.com/ejr49-blip/career-engineered-portfolio/](https://ejr49-blip.github.io/career-engineered-portfolio/)
+This repository now contains a polished static portfolio website for Ethan Rantung, styled with a bold dark/yellow visual system and a product-focused landing experience.
 
----
+## Files
+- `index.html` — main landing page
+- `styles.css` — portfolio visual styling
 
-## Project Overview
-This project is a career-engineered portfolio designed to position me as a **Computer Systems Analyst / Automation-Focused Software Engineer**. The site emphasizes systems thinking, automation mindset, and verifiable technical proof through GitHub repositories.
+## Viewing the Site
+Open `index.html` in a browser to preview the portfolio.
 
-The goal is clarity: a recruiter should understand my role, value, and proof within **5 seconds** of landing on the site.
-
----
-
-## Call to Action
-**Primary CTA:**  
-👉 *View My GitHub Contributions*
-
-This aligns with recruiter behavior and reduces friction by sending visitors directly to technical proof.
-
----
-
-## Orchestration Log (AI Collaboration)
-During development, the AI initially recommended using a React-based framework. I challenged this decision due to time constraints and unnecessary complexity for a proof-of-work portfolio. We pivoted to a lightweight HTML/CSS approach, enabling same-day deployment while better reflecting a systems-oriented engineering mindset.
-
----
-
-## Tech Stack
-- HTML5  
-- CSS3  
-- Minimal JavaScript  
-- GitHub Pages for deployment
-
----
-
-## Repository Structure
-- `index.html` – Hero and positioning
-- `projects.html` – Technical case studies
-- `about.html` – Skills and systems mindset
-- `AGENTS.md` – AI-facing master implementation letter
-- `assets/` – CSS, JS, images
-
----
+## Description
+The site is designed to feel like a real portfolio landing page with:
+- bold hero messaging
+- readable content sections
+- project and about areas
+- a modern dark UI with yellow accents
+- responsive layout for desktop and mobile
 
 ## Author
-NJIT Student  
-Targeting Computer Systems Analyst & Automation-Focused SWE roles
+Ethan Rantung
