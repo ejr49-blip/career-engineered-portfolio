@@ -264,6 +264,14 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.08);
 }
 
+.project-image {
+  width: 100%;
+  border-radius: 0.9rem;
+  margin-top: 1rem;
+  display: block;
+  border: 1px solid rgba(255,255,255,0.06);
+}
+
 .info-card h3,
 .project-card h3 {
   margin: 0 0 1rem;
