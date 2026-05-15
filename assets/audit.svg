@@ -17,6 +17,4 @@
   <path d="M420 360 C470 360 560 350 640 330 C720 310 780 310 820 340" fill="none" stroke="#111" stroke-width="24" stroke-linecap="round" />
   <path d="M520 420 C540 460 620 510 700 500" fill="none" stroke="#111" stroke-width="22" stroke-linecap="round" />
   <circle cx="600" cy="300" r="118" fill="none" stroke="#fff" stroke-width="8" opacity="0.85" />
-  <text x="600" y="520" text-anchor="middle" fill="#fff" font-family="Inter, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="0.04em">LeBron James</text>
-  <text x="600" y="578" text-anchor="middle" fill="#ffd300" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="0.2em">AUDIT IMAGE</text>
 </svg>
